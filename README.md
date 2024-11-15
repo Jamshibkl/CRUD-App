@@ -27,7 +27,7 @@ A simple CRUD (Create, Read, Update, Delete) blog app built with React.js for th
 
 5. Run the JSON server (in another terminal):
 
-   `npm run server`
+   `json-server --watch db.json --port 3001`
 this will start the backend server on http://localhost:3001.
 
 ### Features
