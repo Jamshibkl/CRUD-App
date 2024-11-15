@@ -19,25 +19,25 @@ A simple CRUD (Create, Read, Update, Delete) blog app built with React.js for th
    git clone https://github.com/your-username/my-crud-app.git
 Navigate to the project folder:
 
-bash
+  ```bash
 Copy code
 cd my-crud-app
 Install dependencies:
 
-bash
+  ```bash
 Copy code
 npm install
-Start the app:
+### Start the app:
 
-bash
+   ```bash
 Copy code
 npm start
-Run the JSON server (in another terminal):
+### Run the JSON server (in another terminal):
 
-bash
+   ```bash
 Copy code
 npm run server
-Usage
+## Usage
 Create Post: Go to /create to add new posts.
 Edit Post: Modify posts by clicking "Edit".
 Delete Post: Remove posts by clicking "Delete".
@@ -45,7 +45,7 @@ View Posts: View all posts on the home page.
 License
 MIT License
 
-Acknowledgements
+## Acknowledgements
 React.js, JSON Server, Bootstrap
 vbnet
 Copy code
