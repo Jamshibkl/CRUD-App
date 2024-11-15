@@ -11,11 +11,11 @@ A simple CRUD (Create, Read, Update, Delete) blog app built with React.js for th
 
 1. Clone the repository:
 
-   `git clone https://github.com/your-username/my-crud-app.git`
+   `git clone https:(https://github.com/Jamshibkl/CRUD-App.git)`
 
 2. Navigate to the project folder:
 
-   `cd my-crud-app`
+   `cd CRUD-App`
 
 3. Install dependencies:
 
