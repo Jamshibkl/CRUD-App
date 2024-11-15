@@ -6,7 +6,6 @@ A simple CRUD (Create, Read, Update, Delete) blog app built with React.js for th
 - Frontend: React.js, Bootstrap
 - Backend: JSON Server
 - Routing: React Router
-- Deployment: Vercel
 
 ### Live Demo
 [Insert Vercel live link]
