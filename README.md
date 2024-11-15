@@ -29,7 +29,7 @@ A simple CRUD (Create, Read, Update, Delete) blog app built with React.js for th
 
    `json-server --watch db.json --port 3001`
    
-this will start the backend server on http://localhost:3001.
+   this will start the backend server on http://localhost:3001.
 
 ### Features
 - Create: Add new blog posts with a title and content.
